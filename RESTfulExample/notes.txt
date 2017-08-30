@@ -1,0 +1,16 @@
+
+to run:
+http://localhost:8080/RESTfulExample/rest/hello/mkyong
+
+
+Run tomcat, then the above ...
+
+Example URL from
+http://www.mkyong.com/webservices/jax-rs/resteasy-hello-world-example/
+
+http://localhost:8080/RESTfulExample/rest/hello/mkyong
+
+http://localhost:8080/ImdbRESTful/rest/hello/test
+==================================================
+Update: runs 5/18
+http://localhost:8080/RESTfulExample/rest/hello/manny
