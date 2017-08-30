@@ -14,3 +14,11 @@ http://localhost:8080/ImdbRESTful/rest/hello/test
 ==================================================
 Update: runs 5/18
 http://localhost:8080/RESTfulExample/rest/hello/manny
+
+==========================================================
+
+Using git hub as a repository, that I check out the source
+can then copy it to my workspace to workon. This was done in order to 
+avoid a large .metadat directory.
+
+
